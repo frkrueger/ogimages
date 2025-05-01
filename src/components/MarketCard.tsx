@@ -29,7 +29,7 @@ const MarketCard: React.FC<MarketCardProps> = memo(({ title, category, chance })
 
       <div className="flex justify-between items-center">
         <div className="text-2xl font-bold bg-gradient-to-r from-purple-500 to-blue-500 bg-clip-text text-transparent">
-          DegenPredict
+          DegenPredict.ai
         </div>
         <button className="px-6 py-3 bg-blue-600 text-white rounded-lg font-semibold">
           Trade now
